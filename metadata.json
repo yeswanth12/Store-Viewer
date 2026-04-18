@@ -1,0 +1,6 @@
+{
+  "name": "Retail Insights Viewer",
+  "description": "A top-down floor plan viewer for retail performance metrics with Excel upload and AI-powered insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
